@@ -22,6 +22,11 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
 
         Log.e("--Main--","Android");
+        Log.e("--Main--","Android");
+        Log.e("--Main--","Android");
+        Log.e("--Main--","Android");
+        Log.e("--Main--","Android");
+
         setContentView(R.layout.activity_main);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
